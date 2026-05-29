@@ -1,0 +1,33 @@
+-->
+when we are using the script tag and also we have given the src tag then the content inside the src tag is ignored when both given only src has high priority
+src tag > content
+-->
+Statements are syntax constructs and commands that perform actions.
+-->
+In most cases, a newline implies a semicolon. But “in most cases” does not mean “always”!
+alert(3 +
+1
++ 2); new line does implict semi-colon in this type of cases
+-->
+code should not contain the nested comments mainly in the multi line comments
+-->
+$ and _ are the special symbols can only used in variables
+-->
+javascript variables are dynamically typed means we can give any data to it dynamically 
+-->
+Infinity, -Infinity and NaN. important keywords
+-->
+NaN is sticky. Any further mathematical operation on NaN returns NaN:
+-->
+the n at the end indicates its a bigInt
+let bigNum = 23456765432345665432n(bigInt);
+-->
+in javascript there is no character data type like other languages exist
+--> 
+null means we are not specifying any datatype upto now
+-->
+undefined means value is not assigned
+null means value unKnown or nothing or empty
+--> the typeof operator return the what datatype we are using 
+typeof 1 or typeof(1) //syntax
+-->
