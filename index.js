@@ -3,4 +3,4 @@
 
 
 let name = prompt("enter your name?","vamshi")
-alert(name)
+alert("name")
