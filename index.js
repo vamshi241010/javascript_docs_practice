@@ -1,8 +1,5 @@
-let num = 15;
-
-if (num % 2 === 0) {
-  console.log(num + " is Even");
-}
-else {
-  console.log("odd")
-}
+a=int(input())
+fact=1
+for i in range(a):
+    fact=fact*i
+print(fact)
