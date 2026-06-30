@@ -9,4 +9,4 @@ const r1 = readline.createInterface({
 r1.question("Enter Your name: ",(name)=>{
 console.log(name)
 r1.close()
-});
+
