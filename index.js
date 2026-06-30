@@ -13,3 +13,4 @@ Promise.all([
 ]).then(() => {
   console.log(balance); // Sometimes 50, sometimes 20
 });
+ 
