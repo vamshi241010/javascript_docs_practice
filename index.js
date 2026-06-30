@@ -1,9 +1,7 @@
-const readline = require("readline");
-const r1 = readline.createInterface({
-  input:process.stdin,
-  output:process.stdout
-});
-r1.question("Enter Your name: ",(name)=>{
-console.log(name)
-r1.close()
-});
+let num = 15;
+
+if (num % 2 === 0) {
+  console.log(num + " is Even");
+} else {
+  console.log(num + " is Odd");
+}
