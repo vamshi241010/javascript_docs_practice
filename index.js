@@ -2,6 +2,5 @@
 // alert("I'm JavaScript!");
 
 
-let name = prompt("enter your name?","vamshi")
-console.log("Hey"name)
-print("my"name)
+let name = "vamshi"
+console.log("Hey"+name)
