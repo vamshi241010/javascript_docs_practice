@@ -4,3 +4,5 @@
 
 let name = prompt("enter your name?","vamshi")
 alert(name)
+console.log("Hey"name)
+print("my"name)
